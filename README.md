@@ -1,6 +1,8 @@
-# GUIGAME🕹️
+# GUI GAME🕹️
 
 Welcome to my first game!🎮
+
+
 This C++ project is my freshman project, showcasing my early exploration into software development. It was my first time working with GUI ever using Windows Forms, allowing me to gain hands-on experience in building user-friendly interfaces. I'm excited to continue learning and growing as a developer.🌱
 
 I'm proud of the progress I've made and the knowledge I've gained throughout this project. I'm eager to continue expanding my skills and exploring new avenues in software development.🙂
